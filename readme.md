@@ -1,3 +1,4 @@
+![bd~](https://raw.github.com/antivapor/uwave/master/uwave.png)
 #uWave Theremin
 One of three devices made for EECS Senior Design at UCF, Fall 2012. See http://www.eecs.ucf.edu/seniordesign/su2012fa2012/g01.
 
